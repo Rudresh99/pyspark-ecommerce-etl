@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Spark
+data/processed/
+spark-warehouse/
+
+# OS
+.DS_Store
